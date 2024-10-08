@@ -31,6 +31,7 @@ function Home() {
               <Input type='number' placeholder='Idade do Usuário' />
             </div>
 
+
             <div>
               <InputLabel>
                 E-mail <span>*</span>
